@@ -6,14 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "back": "Script for the backend XD",
-    "front": "cd ./frontend && npm run dev"
+    "front": "cd ./frontend && npm run dev",
+    "installAll": "cd ./frontend && npm i && cd ../backend && npm i"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dablusLyes/Ticket-ok.git"
   },
   "author": "Lyes Ramdane, Nazim Bandoui",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dablusLyes/Ticket-ok/issues"
   },
