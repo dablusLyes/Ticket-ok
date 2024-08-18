@@ -1,0 +1,21 @@
+{
+  "name": "ticketok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "back": "Script for the backend XD",
+    "front": "cd ./frontend && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dablusLyes/Ticket-ok.git"
+  },
+  "author": "Lyes Ramdane, Nazim Bandoui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dablusLyes/Ticket-ok/issues"
+  },
+  "homepage": "https://github.com/dablusLyes/Ticket-ok#readme"
+}
