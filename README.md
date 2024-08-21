@@ -20,18 +20,21 @@ npm run installAll
 ```
 
 ## Start the Server & the client
-To start the development server, run:
+To start the development server & Client, i two different terminals run these two commands 
+
+Server :
 ```bash
 npm run back
 ```
-To start the Client, run : 
+
+Client : 
 ```bash
 npm run front
 ```
 
-This will start a local development server using nodemon for hot reloading. Open your web browser and visit `http://localhost:5174/` to see the Ticket-ok system in action.
+This will start a local development server & client. Open your web browser and visit `http://localhost:5174/` to see the Ticket-ok in action.
 
-## Build for Production
+## Build for Production (tbd)
 To build the project for production, run:
 ```bash
 npm run build
@@ -42,5 +45,3 @@ This will create a production-ready version of the application in the `dist` fol
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-I hope this helps you get started with your Ticket-ok project! Let me know if you have any further questions or need additional assistance.
